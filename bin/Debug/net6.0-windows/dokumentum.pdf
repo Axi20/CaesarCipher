@@ -1,0 +1,2228 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [8 0 R 12 0 R ]
+/MediaBox [0 0 595 842]
+/Rotate 0
+>>
+endobj
+3 0 obj
+<<
+/Font 4 0 R
+/ProcSet []
+/XObject 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/F1 6 0 R
+/F3 11 0 R
+/F2 10 0 R
+>>
+endobj
+5 0 obj
+<<
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<<
+/Type /Info
+/Producer  (ISH Medsolution report generator.)
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 3 0 R
+/Contents 9 0 R
+/Annots []
+>>
+endobj
+9 0 obj
+<</Length 20974 >>
+stream
+%backgound image layer
+%box layer
+1 w
+39 584.837 m
+481.8 584.837 l
+S
+1 w
+130.8 678.077 m
+460.2 678.077 l
+S
+%content layer
+
+BT
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 779)
+1.0 0 0 1.0 39 63 Tm
+0 -8.505 Td
+(e-MedSolution)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(481.8, 779)
+1.0 0 0 1.0 481.8 63 Tm
+0 -8.505 Td
+(Oldal)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(530.4, 779)
+1.0 0 0 1.0 530.4 63 Tm
+0 -8.505 Td
+(1)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 790.655)
+1.0 0 0 1.0 39 51.345 Tm
+0 -8.505 Td
+(Varró Ágnes Judit - Telj. AZ.: 19929379)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(368.4, 790.655)
+1.0 0 0 1.0 368.4 51.345 Tm
+0 -8.505 Td
+(Nyomtatva: api 2019.10.16 13:36)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 60)
+1.0 0 0 1.0 39 782 Tm
+0 -8.505 Td
+(Szegedi Tudományegyetem ÁOK KK)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(249.6, 60)
+1.0 0 0 1.0 249.6 782 Tm
+0 -8.505 Td
+(Mintavételi telephelyek)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+%moveCursor(39, 71.655)
+1.0 0 0 1.0 39 770.345 Tm
+0 -8.505 Td
+(Laboratóriumi Medicina Intézet)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(249.6, 71.655)
+1.0 0 0 1.0 249.6 770.345 Tm
+0 -8.505 Td
+(Felnõtt:)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+%moveCursor(39, 83.31)
+1.0 0 0 1.0 39 758.69 Tm
+0 -8.505 Td
+(Intézetvezetõ:)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+%moveCursor(120, 83.31)
+1.0 0 0 1.0 120 758.69 Tm
+0 -8.505 Td
+(Dr. Földesi Imre)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(260.4, 83.31)
+1.0 0 0 1.0 260.4 758.69 Tm
+0 -8.505 Td
+(I. Rendelõ: Szeged, Tisza L. krt. 97.)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 94.965)
+1.0 0 0 1.0 39 747.035 Tm
+0 -8.505 Td
+(Laboratóriumi telephelyek)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(49.8, 106.62)
+1.0 0 0 1.0 49.8 735.38 Tm
+0 -8.505 Td
+(Központi: Szeged, Semmelweis u.6.)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(49.8, 118.275)
+1.0 0 0 1.0 49.8 723.725 Tm
+0 -8.505 Td
+(Kórházi: Szeged, Kálvári sgt. 57.)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 129.93)
+1.0 0 0 1.0 39 712.07 Tm
+0 -8.505 Td
+(http://www.szote.u-szeged.hu/clab/)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+%moveCursor(39, 153.24)
+1.0 0 0 1.0 39 688.76 Tm
+91.8 -8.505 Td
+(L A B O R A T Ó R I U M I   E R E D M É N Y K Ö Z L Õ   L A P)Tj
+-91.8 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 175.578)
+1.0 0 0 1.0 39 666.422 Tm
+0 -8.505 Td
+(Beteg neve........:)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+%moveCursor(147, 175.578)
+1.0 0 0 1.0 147 666.422 Tm
+0 -8.505 Td
+(Varró Ágnes Judit)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(373.8, 175.578)
+1.0 0 0 1.0 373.8 666.422 Tm
+0 -8.505 Td
+(KBA.....:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(427.8, 175.578)
+1.0 0 0 1.0 427.8 666.422 Tm
+0 -8.505 Td
+(00000407434)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 187.233)
+1.0 0 0 1.0 39 654.767 Tm
+0 -8.505 Td
+(Születési dátum...:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(147, 187.233)
+1.0 0 0 1.0 147 654.767 Tm
+0 -8.505 Td
+(2002.02.10)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(373.8, 187.233)
+1.0 0 0 1.0 373.8 654.767 Tm
+0 -8.505 Td
+(TAJ.....:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(427.8, 187.233)
+1.0 0 0 1.0 427.8 654.767 Tm
+0 -8.505 Td
+(119-358-669)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 198.888)
+1.0 0 0 1.0 39 643.112 Tm
+0 -8.505 Td
+(Anyja neve........:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(147, 198.888)
+1.0 0 0 1.0 147 643.112 Tm
+0 -8.505 Td
+(Tóth Ágnes)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(373.8, 198.888)
+1.0 0 0 1.0 373.8 643.112 Tm
+0 -8.505 Td
+(Esetszám:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(427.8, 198.888)
+1.0 0 0 1.0 427.8 643.112 Tm
+0 -8.505 Td
+(51114313)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 210.543)
+1.0 0 0 1.0 39 631.457 Tm
+0 -8.505 Td
+(Lakcím............:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(147, 210.543)
+1.0 0 0 1.0 147 631.457 Tm
+0 -8.505 Td
+(6772 Deszk, Damjanich u. 3.)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(373.8, 210.543)
+1.0 0 0 1.0 373.8 631.457 Tm
+0 -8.505 Td
+(Telj.az.:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(427.8, 210.543)
+1.0 0 0 1.0 427.8 631.457 Tm
+0 -8.505 Td
+(19929379)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 222.198)
+1.0 0 0 1.0 39 619.802 Tm
+0 -8.505 Td
+(Vizsgálatkérõ.....:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(147, 222.198)
+1.0 0 0 1.0 147 619.802 Tm
+0 -8.505 Td
+(060090097 Dr. Balla Beáta, Dr. Balla Beáta)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(373.8, 222.198)
+1.0 0 0 1.0 373.8 619.802 Tm
+0 -8.505 Td
+(Tér.kat.:)Tj
+0 8.505 Td
+%doRender TextBox
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(147, 233.853)
+1.0 0 0 1.0 147 608.147 Tm
+0 -8.505 Td
+(38449)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(179.4, 233.853)
+1.0 0 0 1.0 179.4 608.147 Tm
+0 -8.505 Td
+(Dr. Balla Beáta)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(363, 233.853)
+1.0 0 0 1.0 363 608.147 Tm
+0 -8.505 Td
+(Vizsg.i.:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(417, 233.853)
+1.0 0 0 1.0 417 608.147 Tm
+0 -8.505 Td
+(2019.10.16)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(476.4, 233.853)
+1.0 0 0 1.0 476.4 608.147 Tm
+0 -8.505 Td
+(10:30)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 245.508)
+1.0 0 0 1.0 39 596.492 Tm
+0 -8.505 Td
+(__________________________________________________________________________________)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(44.4, 257.163)
+1.0 0 0 1.0 44.4 584.837 Tm
+0 -8.505 Td
+(Iránydiagn.:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(120, 257.163)
+1.0 0 0 1.0 120 584.837 Tm
+0 -8.505 Td
+(R51H0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(44.4, 268.818)
+1.0 0 0 1.0 44.4 573.182 Tm
+0 -8.505 Td
+(Testnedv minta van?)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(157.8, 268.818)
+1.0 0 0 1.0 157.8 573.182 Tm
+0 -8.505 Td
+(nincs)Tj
+0 8.505 Td
+%moveCursor(157.8, 268.818)
+1.0 0 0 1.0 157.8 573.182 Tm
+%doRender TextBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 292.128)
+1.0 0 0 1.0 49.8 549.872 Tm
+0 -8.505 Td
+(.                                 Érték      !   M.egys.    Ref.tart)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 303.783)
+1.0 0 0 1.0 49.8 538.217 Tm
+0 -8.505 Td
+(Minta érkeztetés)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 303.783)
+1.0 0 0 1.0 228 538.217 Tm
+0 -8.505 Td
+(rendben;)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(60.6, 315.438)
+1.0 0 0 1.0 60.6 526.562 Tm
+0 -8.505 Td
+(2019.10.16  Idõpont: 10:45:37)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 327.093)
+1.0 0 0 1.0 49.8 514.907 Tm
+0 -8.505 Td
+(Nátrium)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 327.093)
+1.0 0 0 1.0 228 514.907 Tm
+0 -8.505 Td
+(141)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 327.093)
+1.0 0 0 1.0 319.8 514.907 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 327.093)
+1.0 0 0 1.0 379.2 514.907 Tm
+0 -8.505 Td
+(138-145)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 338.748)
+1.0 0 0 1.0 49.8 503.252 Tm
+0 -8.505 Td
+(Kálium)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 338.748)
+1.0 0 0 1.0 228 503.252 Tm
+0 -8.505 Td
+(3.9)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 338.748)
+1.0 0 0 1.0 319.8 503.252 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 338.748)
+1.0 0 0 1.0 379.2 503.252 Tm
+0 -8.505 Td
+(3.4-4.7)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 350.403)
+1.0 0 0 1.0 49.8 491.597 Tm
+0 -8.505 Td
+(Klorid)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 350.403)
+1.0 0 0 1.0 228 491.597 Tm
+0 -8.505 Td
+(102)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 350.403)
+1.0 0 0 1.0 319.8 491.597 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 350.403)
+1.0 0 0 1.0 379.2 491.597 Tm
+0 -8.505 Td
+(98-111)Tj
+0 8.505 Td
+%moveCursor(379.2, 350.403)
+1.0 0 0 1.0 379.2 491.597 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 362.058)
+1.0 0 0 1.0 49.8 479.942 Tm
+0 -8.505 Td
+(Glükóz)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 362.058)
+1.0 0 0 1.0 228 479.942 Tm
+0 -8.505 Td
+(5.3)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 362.058)
+1.0 0 0 1.0 319.8 479.942 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 362.058)
+1.0 0 0 1.0 379.2 479.942 Tm
+0 -8.505 Td
+(3.3-5.6)Tj
+0 8.505 Td
+%moveCursor(379.2, 362.058)
+1.0 0 0 1.0 379.2 479.942 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 373.713)
+1.0 0 0 1.0 49.8 468.287 Tm
+0 -8.505 Td
+(Összfehérje)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 373.713)
+1.0 0 0 1.0 228 468.287 Tm
+0 -8.505 Td
+(78)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 373.713)
+1.0 0 0 1.0 319.8 468.287 Tm
+0 -8.505 Td
+(g/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 373.713)
+1.0 0 0 1.0 379.2 468.287 Tm
+0 -8.505 Td
+(60-87)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 385.368)
+1.0 0 0 1.0 49.8 456.632 Tm
+0 -8.505 Td
+(Albumin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 385.368)
+1.0 0 0 1.0 228 456.632 Tm
+0 -8.505 Td
+(50)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(298.2, 385.368)
+1.0 0 0 1.0 298.2 456.632 Tm
+0 -8.505 Td
+(M)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 385.368)
+1.0 0 0 1.0 319.8 456.632 Tm
+0 -8.505 Td
+(g/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 385.368)
+1.0 0 0 1.0 379.2 456.632 Tm
+0 -8.505 Td
+(32-45)Tj
+0 8.505 Td
+%moveCursor(379.2, 385.368)
+1.0 0 0 1.0 379.2 456.632 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 397.023)
+1.0 0 0 1.0 49.8 444.977 Tm
+0 -8.505 Td
+(Koleszterin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 397.023)
+1.0 0 0 1.0 228 444.977 Tm
+0 -8.505 Td
+(4.58)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 397.023)
+1.0 0 0 1.0 319.8 444.977 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 397.023)
+1.0 0 0 1.0 379.2 444.977 Tm
+0 -8.505 Td
+(<5.20)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(60.6, 408.678)
+1.0 0 0 1.0 60.6 433.322 Tm
+0 -8.505 Td
+(A koleszterin célérték lipidcsökkentõ kezelés során a társult betegségektõl )Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(60.6, 420.333)
+1.0 0 0 1.0 60.6 421.667 Tm
+0 -8.505 Td
+(függ.)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 431.988)
+1.0 0 0 1.0 49.8 410.012 Tm
+0 -8.505 Td
+(Triglicerid)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 431.988)
+1.0 0 0 1.0 228 410.012 Tm
+0 -8.505 Td
+(0.89)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 431.988)
+1.0 0 0 1.0 319.8 410.012 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 431.988)
+1.0 0 0 1.0 379.2 410.012 Tm
+0 -8.505 Td
+(<1.70)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 443.643)
+1.0 0 0 1.0 49.8 398.357 Tm
+0 -8.505 Td
+(HDL-koleszterin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 443.643)
+1.0 0 0 1.0 228 398.357 Tm
+0 -8.505 Td
+(1.55)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 443.643)
+1.0 0 0 1.0 319.8 398.357 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 443.643)
+1.0 0 0 1.0 379.2 398.357 Tm
+0 -8.505 Td
+(>1.40)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 455.298)
+1.0 0 0 1.0 49.8 386.702 Tm
+0 -8.505 Td
+(LDL-koleszterin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 455.298)
+1.0 0 0 1.0 228 386.702 Tm
+0 -8.505 Td
+(2.63)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 455.298)
+1.0 0 0 1.0 319.8 386.702 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 455.298)
+1.0 0 0 1.0 379.2 386.702 Tm
+0 -8.505 Td
+(<3.00)Tj
+0 8.505 Td
+%moveCursor(379.2, 455.298)
+1.0 0 0 1.0 379.2 386.702 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 466.953)
+1.0 0 0 1.0 49.8 375.047 Tm
+0 -8.505 Td
+(Vörösvértest-süllyedés)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 466.953)
+1.0 0 0 1.0 228 375.047 Tm
+0 -8.505 Td
+(10)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 466.953)
+1.0 0 0 1.0 319.8 375.047 Tm
+0 -8.505 Td
+(mm/h)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 466.953)
+1.0 0 0 1.0 379.2 375.047 Tm
+0 -8.505 Td
+(1-20)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 478.608)
+1.0 0 0 1.0 49.8 363.392 Tm
+0 -8.505 Td
+(Aszpartát-aminotranszferáz \(GOT\))Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 478.608)
+1.0 0 0 1.0 228 363.392 Tm
+0 -8.505 Td
+(20)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 478.608)
+1.0 0 0 1.0 319.8 363.392 Tm
+0 -8.505 Td
+(U/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 478.608)
+1.0 0 0 1.0 379.2 363.392 Tm
+0 -8.505 Td
+(<27)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 490.263)
+1.0 0 0 1.0 49.8 351.737 Tm
+0 -8.505 Td
+(Alanin-aminotranszferáz \(GPT\))Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 490.263)
+1.0 0 0 1.0 228 351.737 Tm
+0 -8.505 Td
+(16)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 490.263)
+1.0 0 0 1.0 319.8 351.737 Tm
+0 -8.505 Td
+(U/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 490.263)
+1.0 0 0 1.0 379.2 351.737 Tm
+0 -8.505 Td
+(<39)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 501.918)
+1.0 0 0 1.0 49.8 340.082 Tm
+0 -8.505 Td
+(Alkalikus foszfatáz \(ALP\))Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 501.918)
+1.0 0 0 1.0 228 340.082 Tm
+0 -8.505 Td
+(93)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 501.918)
+1.0 0 0 1.0 319.8 340.082 Tm
+0 -8.505 Td
+(U/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 501.918)
+1.0 0 0 1.0 379.2 340.082 Tm
+0 -8.505 Td
+(35-104)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 513.573)
+1.0 0 0 1.0 49.8 328.427 Tm
+0 -8.505 Td
+(Gamma-glutamil transzferáz \(GGT\))Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 513.573)
+1.0 0 0 1.0 228 328.427 Tm
+0 -8.505 Td
+(10)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 513.573)
+1.0 0 0 1.0 319.8 328.427 Tm
+0 -8.505 Td
+(U/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 513.573)
+1.0 0 0 1.0 379.2 328.427 Tm
+0 -8.505 Td
+(<33)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 525.228)
+1.0 0 0 1.0 49.8 316.772 Tm
+0 -8.505 Td
+(Össz bilirubin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 525.228)
+1.0 0 0 1.0 228 316.772 Tm
+0 -8.505 Td
+(5.6)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 525.228)
+1.0 0 0 1.0 319.8 316.772 Tm
+0 -8.505 Td
+(umol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 525.228)
+1.0 0 0 1.0 379.2 316.772 Tm
+0 -8.505 Td
+(<17.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 536.883)
+1.0 0 0 1.0 49.8 305.117 Tm
+0 -8.505 Td
+(Alfa-amiláz)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 536.883)
+1.0 0 0 1.0 228 305.117 Tm
+0 -8.505 Td
+(65)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 536.883)
+1.0 0 0 1.0 319.8 305.117 Tm
+0 -8.505 Td
+(U/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 536.883)
+1.0 0 0 1.0 379.2 305.117 Tm
+0 -8.505 Td
+(<100)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 548.538)
+1.0 0 0 1.0 49.8 293.462 Tm
+0 -8.505 Td
+(Karbamid \(Urea\))Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 548.538)
+1.0 0 0 1.0 228 293.462 Tm
+0 -8.505 Td
+(3.9)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 548.538)
+1.0 0 0 1.0 319.8 293.462 Tm
+0 -8.505 Td
+(mmol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 548.538)
+1.0 0 0 1.0 379.2 293.462 Tm
+0 -8.505 Td
+(1.8-6.4)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 560.193)
+1.0 0 0 1.0 49.8 281.807 Tm
+0 -8.505 Td
+(Kreatinin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 560.193)
+1.0 0 0 1.0 228 281.807 Tm
+0 -8.505 Td
+(74)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 560.193)
+1.0 0 0 1.0 319.8 281.807 Tm
+0 -8.505 Td
+(umol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 560.193)
+1.0 0 0 1.0 379.2 281.807 Tm
+0 -8.505 Td
+(27-88)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 571.848)
+1.0 0 0 1.0 49.8 270.152 Tm
+0 -8.505 Td
+(eGFR-EPI)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 571.848)
+1.0 0 0 1.0 319.8 270.152 Tm
+0 -8.505 Td
+(mL/min/tf.)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(60.6, 583.503)
+1.0 0 0 1.0 60.6 258.497 Tm
+0 -8.505 Td
+(A vesefunkció becslésére 18 éves kor alatt a CKD-EPI formula nem )Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(60.6, 595.158)
+1.0 0 0 1.0 60.6 246.842 Tm
+0 -8.505 Td
+(használható.)Tj
+0 8.505 Td
+%moveCursor(60.6, 583.503)
+1.0 0 0 1.0 60.6 258.497 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(49.8, 606.813)
+1.0 0 0 1.0 49.8 235.187 Tm
+0 -8.505 Td
+(Húgysav)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 606.813)
+1.0 0 0 1.0 228 235.187 Tm
+0 -8.505 Td
+(231)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 606.813)
+1.0 0 0 1.0 319.8 235.187 Tm
+0 -8.505 Td
+(umol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 606.813)
+1.0 0 0 1.0 379.2 235.187 Tm
+0 -8.505 Td
+(145-340)Tj
+0 8.505 Td
+%moveCursor(379.2, 606.813)
+1.0 0 0 1.0 379.2 235.187 Tm
+%doRender TextBox
+/F3 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 618.468)
+1.0 0 0 1.0 39 223.532 Tm
+0 -8.505 Td
+(Általános vizeletvizsgálat üledék nélkül:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 629.151)
+1.0 0 0 1.0 49.8 212.849 Tm
+0 -8.505 Td
+(Vizelet nitrit)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 629.151)
+1.0 0 0 1.0 228 212.849 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 640.806)
+1.0 0 0 1.0 49.8 201.194 Tm
+0 -8.505 Td
+(Vizelet pH)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 640.806)
+1.0 0 0 1.0 228 201.194 Tm
+0 -8.505 Td
+(5,5)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 652.461)
+1.0 0 0 1.0 49.8 189.539 Tm
+0 -8.505 Td
+(Vizelet fehérje)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 652.461)
+1.0 0 0 1.0 228 189.539 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 664.116)
+1.0 0 0 1.0 49.8 177.884 Tm
+0 -8.505 Td
+(Vizelet cukor)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 664.116)
+1.0 0 0 1.0 228 177.884 Tm
+0 -8.505 Td
+(normál)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 675.771)
+1.0 0 0 1.0 49.8 166.229 Tm
+0 -8.505 Td
+(Vizelet ketontest)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 675.771)
+1.0 0 0 1.0 228 166.229 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 687.426)
+1.0 0 0 1.0 49.8 154.574 Tm
+0 -8.505 Td
+(Vizelet urobilinogén)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 687.426)
+1.0 0 0 1.0 228 154.574 Tm
+0 -8.505 Td
+(normál)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 699.081)
+1.0 0 0 1.0 49.8 142.919 Tm
+0 -8.505 Td
+(Vizelet bilirubin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 699.081)
+1.0 0 0 1.0 228 142.919 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 710.736)
+1.0 0 0 1.0 49.8 131.264 Tm
+0 -8.505 Td
+(Vizelet fehérvérsejt)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 710.736)
+1.0 0 0 1.0 228 131.264 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 722.391)
+1.0 0 0 1.0 49.8 119.609 Tm
+0 -8.505 Td
+(Vizelet vörösvérsejt)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 722.391)
+1.0 0 0 1.0 228 119.609 Tm
+0 -8.505 Td
+(negatív)Tj
+0 8.505 Td
+%moveCursor(228, 722.391)
+1.0 0 0 1.0 228 119.609 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 734.046)
+1.0 0 0 1.0 39 107.954 Tm
+0 -8.505 Td
+(Vizelet üledékvizsgálat:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 745.701)
+1.0 0 0 1.0 49.8 96.299 Tm
+0 -8.505 Td
+(1-2 fvs, kevés baktérium; Ca-oxalát kristályok;)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(39, 757.357)
+1.0 0 0 1.0 39 84.643 Tm
+0 -8.505 Td
+(Vas)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(217.2, 757.357)
+1.0 0 0 1.0 217.2 84.643 Tm
+0 -8.505 Td
+(15.8)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(309, 757.357)
+1.0 0 0 1.0 309 84.643 Tm
+0 -8.505 Td
+(umol/l)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(368.4, 757.357)
+1.0 0 0 1.0 368.4 84.643 Tm
+0 -8.505 Td
+(6.6-26.0)Tj
+0 8.505 Td
+%moveCursor(368.4, 757.357)
+1.0 0 0 1.0 368.4 84.643 Tm
+
+ET
+
+endstream
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /CourierNew
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /CourierNew,Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 3 0 R
+/Contents 13 0 R
+/Annots []
+>>
+endobj
+13 0 obj
+<</Length 16439 >>
+stream
+%backgound image layer
+%box layer
+%content layer
+
+BT
+%doRender TextBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 779)
+1.0 0 0 1.0 39 63 Tm
+0 -8.505 Td
+(e-MedSolution)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(481.8, 779)
+1.0 0 0 1.0 481.8 63 Tm
+0 -8.505 Td
+(Oldal)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(530.4, 779)
+1.0 0 0 1.0 530.4 63 Tm
+0 -8.505 Td
+(2)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 790.655)
+1.0 0 0 1.0 39 51.345 Tm
+0 -8.505 Td
+(Varró Ágnes Judit - Telj. AZ.: 19929379)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(368.4, 790.655)
+1.0 0 0 1.0 368.4 51.345 Tm
+0 -8.505 Td
+(Nyomtatva: api 2019.10.16 13:36)Tj
+0 8.505 Td
+%doRender TextBox
+/F3 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 60)
+1.0 0 0 1.0 39 782 Tm
+0 -8.505 Td
+(Vérkép automatával:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 70.683)
+1.0 0 0 1.0 49.8 771.317 Tm
+0 -8.505 Td
+(Fehérvérsejt szám)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 70.683)
+1.0 0 0 1.0 228 771.317 Tm
+0 -8.505 Td
+(7.82)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 70.683)
+1.0 0 0 1.0 319.8 771.317 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 70.683)
+1.0 0 0 1.0 379.2 771.317 Tm
+0 -8.505 Td
+(4.00-13.00)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 82.338)
+1.0 0 0 1.0 49.8 759.662 Tm
+0 -8.505 Td
+(Neutrophil gran.)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 82.338)
+1.0 0 0 1.0 228 759.662 Tm
+0 -8.505 Td
+(3.76)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 82.338)
+1.0 0 0 1.0 319.8 759.662 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 82.338)
+1.0 0 0 1.0 379.2 759.662 Tm
+0 -8.505 Td
+(1.50-8.50)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 93.993)
+1.0 0 0 1.0 49.8 748.007 Tm
+0 -8.505 Td
+(Neutrophil gran. %)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 93.993)
+1.0 0 0 1.0 228 748.007 Tm
+0 -8.505 Td
+(48.1)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 93.993)
+1.0 0 0 1.0 319.8 748.007 Tm
+0 -8.505 Td
+(%)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 93.993)
+1.0 0 0 1.0 379.2 748.007 Tm
+0 -8.505 Td
+(37.0-62.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 105.648)
+1.0 0 0 1.0 49.8 736.352 Tm
+0 -8.505 Td
+(Lymphocyta)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 105.648)
+1.0 0 0 1.0 228 736.352 Tm
+0 -8.505 Td
+(3.16)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 105.648)
+1.0 0 0 1.0 319.8 736.352 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 105.648)
+1.0 0 0 1.0 379.2 736.352 Tm
+0 -8.505 Td
+(1.50-4.00)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 117.303)
+1.0 0 0 1.0 49.8 724.697 Tm
+0 -8.505 Td
+(Lymphocyta %)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 117.303)
+1.0 0 0 1.0 228 724.697 Tm
+0 -8.505 Td
+(40.4)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(298.2, 117.303)
+1.0 0 0 1.0 298.2 724.697 Tm
+0 -8.505 Td
+(M)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 117.303)
+1.0 0 0 1.0 319.8 724.697 Tm
+0 -8.505 Td
+(%)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 117.303)
+1.0 0 0 1.0 379.2 724.697 Tm
+0 -8.505 Td
+(30.0-38.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 128.958)
+1.0 0 0 1.0 49.8 713.042 Tm
+0 -8.505 Td
+(Monocyta)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 128.958)
+1.0 0 0 1.0 228 713.042 Tm
+0 -8.505 Td
+(0.74)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 128.958)
+1.0 0 0 1.0 319.8 713.042 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 128.958)
+1.0 0 0 1.0 379.2 713.042 Tm
+0 -8.505 Td
+(0.15-1.30)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 140.613)
+1.0 0 0 1.0 49.8 701.387 Tm
+0 -8.505 Td
+(Monocyta %)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 140.613)
+1.0 0 0 1.0 228 701.387 Tm
+0 -8.505 Td
+(9.5)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(298.2, 140.613)
+1.0 0 0 1.0 298.2 701.387 Tm
+0 -8.505 Td
+(M)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 140.613)
+1.0 0 0 1.0 319.8 701.387 Tm
+0 -8.505 Td
+(%)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 140.613)
+1.0 0 0 1.0 379.2 701.387 Tm
+0 -8.505 Td
+(4.0-9.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 152.268)
+1.0 0 0 1.0 49.8 689.732 Tm
+0 -8.505 Td
+(Eosinophil)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 152.268)
+1.0 0 0 1.0 228 689.732 Tm
+0 -8.505 Td
+(0.11)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 152.268)
+1.0 0 0 1.0 319.8 689.732 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 152.268)
+1.0 0 0 1.0 379.2 689.732 Tm
+0 -8.505 Td
+(0.08-1.20)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 163.923)
+1.0 0 0 1.0 49.8 678.077 Tm
+0 -8.505 Td
+(Eosinophil %)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 163.923)
+1.0 0 0 1.0 228 678.077 Tm
+0 -8.505 Td
+(1.4)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(298.2, 163.923)
+1.0 0 0 1.0 298.2 678.077 Tm
+0 -8.505 Td
+(A)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 163.923)
+1.0 0 0 1.0 319.8 678.077 Tm
+0 -8.505 Td
+(%)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 163.923)
+1.0 0 0 1.0 379.2 678.077 Tm
+0 -8.505 Td
+(2.0-9.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 175.578)
+1.0 0 0 1.0 49.8 666.422 Tm
+0 -8.505 Td
+(Basophil)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 175.578)
+1.0 0 0 1.0 228 666.422 Tm
+0 -8.505 Td
+(0.05)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 175.578)
+1.0 0 0 1.0 319.8 666.422 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 175.578)
+1.0 0 0 1.0 379.2 666.422 Tm
+0 -8.505 Td
+(0.02-0.29)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 187.233)
+1.0 0 0 1.0 49.8 654.767 Tm
+0 -8.505 Td
+(Basophil %)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 187.233)
+1.0 0 0 1.0 228 654.767 Tm
+0 -8.505 Td
+(0.6)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 187.233)
+1.0 0 0 1.0 319.8 654.767 Tm
+0 -8.505 Td
+(%)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 187.233)
+1.0 0 0 1.0 379.2 654.767 Tm
+0 -8.505 Td
+(0.0-2.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 198.888)
+1.0 0 0 1.0 49.8 643.112 Tm
+0 -8.505 Td
+(Vörösvértestszám)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 198.888)
+1.0 0 0 1.0 228 643.112 Tm
+0 -8.505 Td
+(4.94)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 198.888)
+1.0 0 0 1.0 319.8 643.112 Tm
+0 -8.505 Td
+(T/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 198.888)
+1.0 0 0 1.0 379.2 643.112 Tm
+0 -8.505 Td
+(4.20-5.10)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 210.543)
+1.0 0 0 1.0 49.8 631.457 Tm
+0 -8.505 Td
+(Haemoglobin)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 210.543)
+1.0 0 0 1.0 228 631.457 Tm
+0 -8.505 Td
+(131)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 210.543)
+1.0 0 0 1.0 319.8 631.457 Tm
+0 -8.505 Td
+(g/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 210.543)
+1.0 0 0 1.0 379.2 631.457 Tm
+0 -8.505 Td
+(110-155)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 222.198)
+1.0 0 0 1.0 49.8 619.802 Tm
+0 -8.505 Td
+(Hematokrit)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 222.198)
+1.0 0 0 1.0 228 619.802 Tm
+0 -8.505 Td
+(0.40)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 222.198)
+1.0 0 0 1.0 319.8 619.802 Tm
+0 -8.505 Td
+(L/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 222.198)
+1.0 0 0 1.0 379.2 619.802 Tm
+0 -8.505 Td
+(0.34-0.47)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 233.853)
+1.0 0 0 1.0 49.8 608.147 Tm
+0 -8.505 Td
+(MCV)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 233.853)
+1.0 0 0 1.0 228 608.147 Tm
+0 -8.505 Td
+(80.6)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 233.853)
+1.0 0 0 1.0 319.8 608.147 Tm
+0 -8.505 Td
+(fL)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 233.853)
+1.0 0 0 1.0 379.2 608.147 Tm
+0 -8.505 Td
+(73.0-91.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 245.508)
+1.0 0 0 1.0 49.8 596.492 Tm
+0 -8.505 Td
+(MCH)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 245.508)
+1.0 0 0 1.0 228 596.492 Tm
+0 -8.505 Td
+(26.5)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(298.2, 245.508)
+1.0 0 0 1.0 298.2 596.492 Tm
+0 -8.505 Td
+(A)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 245.508)
+1.0 0 0 1.0 319.8 596.492 Tm
+0 -8.505 Td
+(pg)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 245.508)
+1.0 0 0 1.0 379.2 596.492 Tm
+0 -8.505 Td
+(27.3-32.6)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 257.163)
+1.0 0 0 1.0 49.8 584.837 Tm
+0 -8.505 Td
+(MCHC)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 257.163)
+1.0 0 0 1.0 228 584.837 Tm
+0 -8.505 Td
+(329)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 257.163)
+1.0 0 0 1.0 319.8 584.837 Tm
+0 -8.505 Td
+(g/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 257.163)
+1.0 0 0 1.0 379.2 584.837 Tm
+0 -8.505 Td
+(316-349)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 268.818)
+1.0 0 0 1.0 49.8 573.182 Tm
+0 -8.505 Td
+(RDW-CV)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 268.818)
+1.0 0 0 1.0 228 573.182 Tm
+0 -8.505 Td
+(13.2)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 268.818)
+1.0 0 0 1.0 319.8 573.182 Tm
+0 -8.505 Td
+(%CV)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 268.818)
+1.0 0 0 1.0 379.2 573.182 Tm
+0 -8.505 Td
+(11.6-13.9)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 280.473)
+1.0 0 0 1.0 49.8 561.527 Tm
+0 -8.505 Td
+(Thrombocyta szám)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 280.473)
+1.0 0 0 1.0 228 561.527 Tm
+0 -8.505 Td
+(208)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 280.473)
+1.0 0 0 1.0 319.8 561.527 Tm
+0 -8.505 Td
+(Giga/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 280.473)
+1.0 0 0 1.0 379.2 561.527 Tm
+0 -8.505 Td
+(169-358)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 292.128)
+1.0 0 0 1.0 49.8 549.872 Tm
+0 -8.505 Td
+(MPV)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 292.128)
+1.0 0 0 1.0 228 549.872 Tm
+0 -8.505 Td
+(9.2)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 292.128)
+1.0 0 0 1.0 319.8 549.872 Tm
+0 -8.505 Td
+(fL)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 292.128)
+1.0 0 0 1.0 379.2 549.872 Tm
+0 -8.505 Td
+(8.0-10.0)Tj
+0 8.505 Td
+%moveCursor(379.2, 292.128)
+1.0 0 0 1.0 379.2 549.872 Tm
+%doRender TextBox
+/F3 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 303.783)
+1.0 0 0 1.0 39 538.217 Tm
+0 -8.505 Td
+(Prothrombin:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 314.466)
+1.0 0 0 1.0 49.8 527.534 Tm
+0 -8.505 Td
+(Protrombin sec)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 314.466)
+1.0 0 0 1.0 228 527.534 Tm
+0 -8.505 Td
+(13.7)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 314.466)
+1.0 0 0 1.0 319.8 527.534 Tm
+0 -8.505 Td
+(s)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 314.466)
+1.0 0 0 1.0 379.2 527.534 Tm
+0 -8.505 Td
+(12.0-17.0)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 326.121)
+1.0 0 0 1.0 49.8 515.879 Tm
+0 -8.505 Td
+(Protrombin INR)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 326.121)
+1.0 0 0 1.0 228 515.879 Tm
+0 -8.505 Td
+(1.03)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 326.121)
+1.0 0 0 1.0 319.8 515.879 Tm
+0 -8.505 Td
+(.)Tj
+0 8.505 Td
+%moveCursor(319.8, 326.121)
+1.0 0 0 1.0 319.8 515.879 Tm
+%doRender TextBox
+/F3 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 337.776)
+1.0 0 0 1.0 39 504.224 Tm
+0 -8.505 Td
+(Hormonok)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 348.459)
+1.0 0 0 1.0 49.8 493.541 Tm
+0 -8.505 Td
+(TSH)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(228, 348.459)
+1.0 0 0 1.0 228 493.541 Tm
+0 -8.505 Td
+(3.41)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(319.8, 348.459)
+1.0 0 0 1.0 319.8 493.541 Tm
+0 -8.505 Td
+(mIU/L)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(379.2, 348.459)
+1.0 0 0 1.0 379.2 493.541 Tm
+0 -8.505 Td
+(0.27-4.20)Tj
+0 8.505 Td
+%moveCursor(379.2, 348.459)
+1.0 0 0 1.0 379.2 493.541 Tm
+%doRender TextAreaBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 360.114)
+1.0 0 0 1.0 39 481.886 Tm
+0 -8.505 Td
+(Ellenõrizte:)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(49.8, 371.769)
+1.0 0 0 1.0 49.8 470.231 Tm
+0 -8.505 Td
+(Dr._Telkes_Mária laboratóriumi szakorvos)Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(49.8, 383.424)
+1.0 0 0 1.0 49.8 458.576 Tm
+0 -8.505 Td
+(2019.10.16 13:18)Tj
+0 8.505 Td
+%moveCursor(49.8, 371.769)
+1.0 0 0 1.0 49.8 470.231 Tm
+%doRender TextBox
+/F2 9 Tf
+0.0 0.0 0.0 rg
+%moveCursor(39, 406.734)
+1.0 0 0 1.0 39 435.266 Tm
+0 -8.505 Td
+(2019.10.16 13:33)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(141.6, 406.734)
+1.0 0 0 1.0 141.6 435.266 Tm
+0 -8.505 Td
+(cust)Tj
+0 8.505 Td
+%doRender TextAreaBox
+/F2 9 Tf
+%moveCursor(39, 430.044)
+1.0 0 0 1.0 39 411.956 Tm
+0 -8.505 Td
+(Figyelem: A lelet autovalidált eredményt tartalmazhat!)Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 441.699)
+1.0 0 0 1.0 39 400.301 Tm
+0 -8.505 Td
+(Az autovalidált eredményekért az intézetvezetõ vállal felelõsséget.)Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 453.354)
+1.0 0 0 1.0 39 388.646 Tm
+0 -8.505 Td
+()Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 465.009)
+1.0 0 0 1.0 39 376.991 Tm
+0 -8.505 Td
+(A laboratóriumi vizsgálatokról a http://www.labtestsonline.hu lakossági honlapon)Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 476.664)
+1.0 0 0 1.0 39 365.336 Tm
+0 -8.505 Td
+(bõvebb információkhoz juthat. A honlap információi tájékoztató jellegûek, nem )Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 488.319)
+1.0 0 0 1.0 39 353.681 Tm
+0 -8.505 Td
+(helyettesítik a személyes orvosi konzultációt. Labor-eredményeivel mindig )Tj
+0 8.505 Td
+/F2 9 Tf
+%moveCursor(39, 499.974)
+1.0 0 0 1.0 39 342.026 Tm
+0 -8.505 Td
+(forduljon orvosához!)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 534.939)
+1.0 0 0 1.0 39 307.061 Tm
+0 -8.505 Td
+(______________________________________________________________________________)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 546.594)
+1.0 0 0 1.0 39 295.406 Tm
+0 -8.505 Td
+(Medsolution)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(438.6, 546.594)
+1.0 0 0 1.0 438.6 295.406 Tm
+0 -8.505 Td
+(Oldal:)Tj
+0 8.505 Td
+%doRender TextBox
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 558.249)
+1.0 0 0 1.0 39 283.751 Tm
+0 -8.505 Td
+(Varró Ágnes Judit)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(249.6, 558.249)
+1.0 0 0 1.0 249.6 283.751 Tm
+0 -8.505 Td
+(Telj.AZ:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(303.6, 558.249)
+1.0 0 0 1.0 303.6 283.751 Tm
+0 -8.505 Td
+(19929379)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(390, 558.249)
+1.0 0 0 1.0 390 283.751 Tm
+0 -8.505 Td
+(Ny:)Tj
+0 8.505 Td
+%doRender TextBox
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(438.6, 558.249)
+1.0 0 0 1.0 438.6 283.751 Tm
+0 -8.505 Td
+(2019.10.16)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(498, 558.249)
+1.0 0 0 1.0 498 283.751 Tm
+0 -8.505 Td
+(13:36)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 604.869)
+1.0 0 0 1.0 39 237.131 Tm
+0 -8.505 Td
+(Varró Ágnes Judit)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(276.6, 604.869)
+1.0 0 0 1.0 276.6 237.131 Tm
+0 -8.505 Td
+(TAJ:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(303.6, 604.869)
+1.0 0 0 1.0 303.6 237.131 Tm
+0 -8.505 Td
+(119-358-669)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 616.524)
+1.0 0 0 1.0 39 225.476 Tm
+0 -8.505 Td
+(Átvevõ neve:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(39, 651.489)
+1.0 0 0 1.0 39 190.511 Tm
+0 -8.505 Td
+(A leletet átvettem:)Tj
+0 8.505 Td
+%doRender TextBox
+/F2 9 Tf
+%moveCursor(168.6, 651.489)
+1.0 0 0 1.0 168.6 190.511 Tm
+0 -8.505 Td
+(..........................)Tj
+0 8.505 Td
+%moveCursor(168.6, 651.489)
+1.0 0 0 1.0 168.6 190.511 Tm
+%moveCursor(168.6, 651.489)
+1.0 0 0 1.0 168.6 190.511 Tm
+%moveCursor(39, 663.144)
+1.0 0 0 1.0 39 178.856 Tm
+
+ET
+
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+0000000001 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R/Info 7 0 R
+>>
+startxref
+1
+%%EOF
